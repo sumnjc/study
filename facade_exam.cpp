@@ -1,3 +1,5 @@
+// facade pattern 예제
+
 #include <iostream>
 
 using namespace std;
